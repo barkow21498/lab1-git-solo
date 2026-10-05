@@ -1,4 +1,4 @@
-\# Lab 1 - git
+\# Projekt Beta
 druga linia
 
 trzecia linia
