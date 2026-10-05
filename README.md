@@ -3,3 +3,9 @@ druga linia
 
 trzecia linia
 
+
+
+\##AUTOR
+
+Bartosz Kowalczyk
+
