@@ -1,1 +1,1 @@
-dowolna treść pliku szkic.txt
+zmiana treści pliku szkic.txt
