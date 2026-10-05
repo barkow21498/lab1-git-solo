@@ -2,3 +2,4 @@ kilka słów w pliku notatki w formacie .txt
 nastepna linia pliku notatki.txt
 jeszcze jedna linia pliku notatki.txt
 zmiana z Zadanie 4
+następna zmiana z Zadanie 4
