@@ -3,5 +3,3 @@ druga linia
 
 trzecia linia
 
-TO JEST BŁĄD
-
